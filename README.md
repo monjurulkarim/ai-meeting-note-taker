@@ -48,4 +48,4 @@ For a full breakdown of the installation, configuration, and advanced usage, ple
 
 ## License
 
-This project is licensed under the MIT License. You are free to use, modify, and distribute the code for your own projects.
+The code for this project is sold under a commercial license available on our Gumroad page. Please review the license terms before purchasing.
