@@ -28,8 +28,7 @@ In a world of cloud-based subscriptions and data privacy concerns, the AI Meetin
 ## Live Demo?
 
 
-
-➡️ **https://youtu.be/x3KXF1FkF_8**
+➡️ Watch the Demo on YouTube: **https://youtu.be/x3KXF1FkF_8**
 
 ---
 
