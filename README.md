@@ -1,7 +1,6 @@
-# ai-meeting-note-taker
 # AI Meeting Note Taker
 
-This repository contains the source code for the **AI Meeting Note Taker**, a powerful, offline tool that transcribes and summarizes audio files on your own computer.
+Tired of giving your confidential conversations to a cloud service? The AI Meeting Note Taker is your secure, one-time purchase solution for transcribing and summarizing meetings, interviews, and lectures with complete privacy. This powerful tool runs entirely on your own machine, ensuring your sensitive data never leaves your computer and you are never locked into a monthly subscription.
 
 ---
 
